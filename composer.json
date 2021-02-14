@@ -33,7 +33,7 @@
         "laminas/laminas-diactoros": "^2",
         "vimeo/psalm": "^4",
         "ext-fileinfo": "*",
-        "ext-curl": "^7.4"
+        "ext-curl": "^7.4 || ^8.0"
     },
     "suggest": {
         "react/filesystem": "*",
